@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/app/search/vis/!svn/ver/6989/trunk/deep-cnn/prepdata
+END
+shuffle.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/app/search/vis/!svn/ver/5922/trunk/deep-cnn/prepdata/shuffle.py
+END
+gen_meta.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/app/search/vis/!svn/ver/6989/trunk/deep-cnn/prepdata/gen_meta.py
+END
+gen_patches.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/app/search/vis/!svn/ver/5922/trunk/deep-cnn/prepdata/gen_patches.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/vis/!svn/ver/5924/trunk/deep-cnn/prepdata/README
+END
+gen_train.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/app/search/vis/!svn/ver/5922/trunk/deep-cnn/prepdata/gen_train.py
+END

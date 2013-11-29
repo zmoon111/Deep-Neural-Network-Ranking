@@ -1,0 +1,15 @@
+Author: Yinan Yu
+Date: 22/Mar/2013
+Contact: yuyinan@baidu.com
+
+these codes are used for data prepare
+
+usage:
+    sh gen_patches.sh img-path img-size imgs-per-patch save-path
+
+example:
+    sh gen_patches.sh ./images 256 5000 ./batches
+
+see gen_patches.sh for more detail infor
+
+if gen_meta.py occur error, please wait the main for-loop over, rerun gen_meta.py

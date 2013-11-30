@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib
+END
+libptf77blas.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libptf77blas.a
+END
+liblapack.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/liblapack.a
+END
+libtstatlas.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libtstatlas.a
+END
+libatlas.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libatlas.a
+END
+libcblas.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libcblas.a
+END
+libf77blas.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libf77blas.a
+END
+libptcblas.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/app/search/vis/!svn/ver/5739/trunk/deep-cnn/predict/atlas/lib/libptcblas.a
+END
